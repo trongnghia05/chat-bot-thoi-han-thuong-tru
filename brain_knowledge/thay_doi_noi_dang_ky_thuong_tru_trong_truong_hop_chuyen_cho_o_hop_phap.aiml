@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</pattern>
+   <template>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</template>
+</category>
+
+<category>
+   <pattern>THAY DOI NOI DANG KY THUONG TRU CHUYEN CHO O HOP PHAP</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAY DOI NOI DANG KY THUONG TRU CHUYEN CHO O HOP PHAP *</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAY DOI NOI DANG KY THUONG TRU CHUYEN CHO O HOP PHAP</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAY DOI NOI DANG KY THUONG TRU CHUYEN CHO O HOP PHAP *</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAY DOI NOI DANG KY * THUONG TRU * CHUYEN CHO O HOP PHAP</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAY DOI NOI DANG KY * THUONG TRU * CHUYEN CHO O HOP PHAP *</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAY DOI NOI DANG KY * THUONG TRU * CHUYEN CHO O HOP PHAP</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAY DOI NOI DANG KY * THUONG TRU * CHUYEN CHO O HOP PHAP *</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAY DOI NOI DANG KY * THUONG TRU CHUYEN CHO O HOP PHAP</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAY DOI NOI DANG KY * THUONG TRU CHUYEN CHO O HOP PHAP *</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAY DOI NOI DANG KY * THUONG TRU CHUYEN CHO O HOP PHAP</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAY DOI NOI DANG KY * THUONG TRU CHUYEN CHO O HOP PHAP *</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAY DOI NOI DANG KY THUONG TRU * CHUYEN CHO O HOP PHAP</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAY DOI NOI DANG KY THUONG TRU * CHUYEN CHO O HOP PHAP *</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAY DOI NOI DANG KY THUONG TRU * CHUYEN CHO O HOP PHAP</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAY DOI NOI DANG KY THUONG TRU * CHUYEN CHO O HOP PHAP *</pattern>
+   <template>
+      <srai>THAY DOI NOI DANG KY THUONG TRU TRONG TRUONG HOP CHUYEN CHO O HOP PHAP</srai>
+   </template>
+</category>
+
+</aiml>

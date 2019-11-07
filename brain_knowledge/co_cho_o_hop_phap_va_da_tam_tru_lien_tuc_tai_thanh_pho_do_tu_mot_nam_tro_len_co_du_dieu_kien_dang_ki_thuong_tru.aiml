@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</pattern>
+   <template>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP TAM TRU TAI MOT NAM TRO LEN DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP TAM TRU TAI MOT NAM TRO LEN DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP TAM TRU TAI MOT NAM TRO LEN DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP TAM TRU TAI MOT NAM TRO LEN DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP TAM TRU TAI MOT NAM TRO LEN THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP TAM TRU TAI MOT NAM TRO LEN THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP TAM TRU TAI MOT NAM TRO LEN THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP TAM TRU TAI MOT NAM TRO LEN THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * TAM TRU TAI * MOT NAM TRO LEN THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * TAM TRU TAI MOT NAM TRO LEN * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * TAM TRU TAI MOT NAM TRO LEN * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * TAM TRU TAI MOT NAM TRO LEN * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * TAM TRU TAI MOT NAM TRO LEN * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP TAM TRU TAI * MOT NAM TRO LEN * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP TAM TRU TAI * MOT NAM TRO LEN * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP TAM TRU TAI * MOT NAM TRO LEN * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP TAM TRU TAI * MOT NAM TRO LEN * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP TAM TRU TAI * MOT NAM TRO LEN THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP TAM TRU TAI * MOT NAM TRO LEN THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP TAM TRU TAI * MOT NAM TRO LEN THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP TAM TRU TAI * MOT NAM TRO LEN THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP MOT NAM TRO LEN DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP MOT NAM TRO LEN DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP MOT NAM TRO LEN DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP MOT NAM TRO LEN DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * MOT NAM TRO LEN * DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * MOT NAM TRO LEN * DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * MOT NAM TRO LEN * DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * MOT NAM TRO LEN * DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * MOT NAM TRO LEN DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * MOT NAM TRO LEN DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP * MOT NAM TRO LEN DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP * MOT NAM TRO LEN DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP MOT NAM TRO LEN * DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP MOT NAM TRO LEN * DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHO O HOP PHAP MOT NAM TRO LEN * DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHO O HOP PHAP MOT NAM TRO LEN * DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI MOT NAM TRO LEN DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI MOT NAM TRO LEN DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI MOT NAM TRO LEN DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI MOT NAM TRO LEN DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI * MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI * MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI * MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI * MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI * MOT NAM TRO LEN * DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI * MOT NAM TRO LEN * DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI * MOT NAM TRO LEN * DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI * MOT NAM TRO LEN * DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI * MOT NAM TRO LEN DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI * MOT NAM TRO LEN DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI * MOT NAM TRO LEN DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI * MOT NAM TRO LEN DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI MOT NAM TRO LEN * DANG KI * THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI MOT NAM TRO LEN * DANG KI * THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI MOT NAM TRO LEN * DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI MOT NAM TRO LEN * DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAM TRU TAI MOT NAM TRO LEN * DANG KI THUONG TRU</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAM TRU TAI MOT NAM TRO LEN * DANG KI THUONG TRU *</pattern>
+   <template>
+      <srai>CO CHO O HOP PHAP VA DA TAM TRU LIEN TUC TAI THANH PHO DO TU MOT NAM TRO LEN CO DU DIEU KIEN DANG KI THUONG TRU</srai>
+   </template>
+</category>
+
+</aiml>

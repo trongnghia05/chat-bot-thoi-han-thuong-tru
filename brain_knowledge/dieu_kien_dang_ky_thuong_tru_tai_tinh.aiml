@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>DIEU KIEN DANG KY THUONG TRU TAI TINH</pattern>
+   <template>DIEU KIEN DANG KY THUONG TRU TAI TINH</template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY * THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY * THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY * THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY * THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY * THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY * THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY * THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY * THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY * THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY * THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY * THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY * THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY * THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY * THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY * THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY * THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY * THUONG TRU TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY * THUONG TRU TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANG KY THUONG TRU * TINH</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANG KY THUONG TRU * TINH *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY THUONG TRU</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY THUONG TRU *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY THUONG TRU</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY THUONG TRU *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY * THUONG TRU</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY * THUONG TRU *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY * THUONG TRU</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY * THUONG TRU *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY THUONG TRU</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY THUONG TRU *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * DANG KY THUONG TRU</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * DANG KY THUONG TRU *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY * THUONG TRU</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY * THUONG TRU *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN DANG KY * THUONG TRU</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN DANG KY * THUONG TRU *</pattern>
+   <template>
+      <srai>DIEU KIEN DANG KY THUONG TRU TAI TINH</srai>
+   </template>
+</category>
+
+</aiml>
